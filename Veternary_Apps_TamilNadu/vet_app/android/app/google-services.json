@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "652153280745",
+    "firebase_url": "https://veternaryapptn.firebaseio.com",
+    "project_id": "veternaryapptn",
+    "storage_bucket": "veternaryapptn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652153280745:android:ba5ae1af683b995c37b878",
+        "android_client_info": {
+          "package_name": "com.flutterflyers.vet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652153280745-kuj6tomeahigbm201vgia6b79p2fncgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBImNZ216V0wnXS_6c6WxBJmOwn_wrqTXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652153280745-kuj6tomeahigbm201vgia6b79p2fncgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652153280745-l5ai27acrjj5slb053de4km4jqdhm4to.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflyers.vetappadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652153280745:android:58270ffa60353f7437b878",
+        "android_client_info": {
+          "package_name": "com.flutterflyers.vetappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652153280745-kuj6tomeahigbm201vgia6b79p2fncgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBImNZ216V0wnXS_6c6WxBJmOwn_wrqTXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652153280745-kuj6tomeahigbm201vgia6b79p2fncgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652153280745-l5ai27acrjj5slb053de4km4jqdhm4to.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflyers.vetappadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652153280745:android:742f1d15a16eb95c37b878",
+        "android_client_info": {
+          "package_name": "com.flutterflyers.vetappvet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652153280745-kuj6tomeahigbm201vgia6b79p2fncgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBImNZ216V0wnXS_6c6WxBJmOwn_wrqTXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652153280745-kuj6tomeahigbm201vgia6b79p2fncgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652153280745-l5ai27acrjj5slb053de4km4jqdhm4to.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflyers.vetappadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

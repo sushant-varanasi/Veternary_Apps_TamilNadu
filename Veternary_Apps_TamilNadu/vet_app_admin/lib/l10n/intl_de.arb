@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2020-10-02T14:32:56.558799",
+  "heyWorld": "Hey Welt",
+  "@heyWorld": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}
